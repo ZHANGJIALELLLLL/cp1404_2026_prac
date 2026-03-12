@@ -1,0 +1,6 @@
+51 is Passable
+5 is Bad
+78 is Passable
+51 is Passable
+92 is Excellent
+81 is Passable
